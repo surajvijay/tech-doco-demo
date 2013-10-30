@@ -12,6 +12,3 @@ This repo contains the eRSA IT support documentation.
 * [Markdown Syntax Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Google Markdown Instructions](https://help.github.com/articles/github-flavored-markdown)
 * [Another good explaination page](http://daringfireball.net/projects/markdown/syntax)
-
-
-Blah blah blah
