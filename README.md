@@ -5,6 +5,7 @@ This repo contains the eRSA IT support documentation.
 * [NeCTAR Related Documentation](nectar/README.md)
 * [Puppet Related Documentaiton](puppet/README.md)
 * [eRSA General Systems Administration](ersasysadmin/README.md)
+* [Instructions for updating the documentation system](documentation-system/README.md)
 
 ## Useful Links
 
