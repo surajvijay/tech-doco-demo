@@ -4,7 +4,7 @@
 
 ### Creating a new branch
 
-Before editting a document, you need to create a new branch to do your work in.
+Before editing a document, you need to create a new branch to do your work in.
 
 To to 
 
